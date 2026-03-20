@@ -1,4 +1,9 @@
 build/
+.conan/
 *.o
-*.out
+*.a
 *.exe
+.vscode/
+.idea/
+CMakeCache.txt
+CMakeFiles/
